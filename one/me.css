@@ -1,0 +1,45 @@
+body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textarea, blockquote {
+	margin: 0; padding: 0; border: 0;
+}
+body {
+	background: #f2f0eb;
+        font: 16px Helvetica, Arial, Sans-Serif; color: #636363; line-height: 24px;
+}
+#container {
+	 color:black;width: 960px; margin: 0 auto;
+}
+#logo {
+	margin: 10px auto 0 auto; position: relative; width: 183px;
+}
+ul#nav {
+	width: 695px; list-style: none; overflow: hidden; margin: -150px auto 30px auto;
+}
+	ul#nav li {
+		width: 135px; height: 33px; float: left; padding: 40px 0 0 0; 
+		
+		font-weight: bold; text-align: right; text-transform: uppercase;
+	}
+		
+		ul#nav li a {
+			color: #616369; text-align: right;
+		}
+			ul#nav li a:hover {
+				color: #a12121;
+				
+			}
+#header
+
+	
+#header h1 {
+		font: 38px Georgia, Serif; color: #f2f0eb; letter-spacing: 2px; margin: 0 0 20px 0;
+		text-shadow: 0px 3px 3px #494949;
+	}
+	#header h2 {
+		width: 510px; font: 30px Georgia, Serif; color: #f2f0eb; letter-spacing: 2px; margin: 0 0 20px 0;
+		text-shadow: 0px 3px 3px #494949;
+	}
+	#header p.btn a {
+		display: block; width: 225px; height: 50px; overflow: hidden;
+		background: url(images/home-header-btn.jpg); text-indent: -9999px;
+	}
+
